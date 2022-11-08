@@ -1,6 +1,6 @@
 - 👋 Hello all, i'm Martin
 - 👀 I’m interested in JavaScript, frontend technologies and frameworks.
-- 🌱 Studying Software Engineering @Software-University
+
 
 
 <!---
